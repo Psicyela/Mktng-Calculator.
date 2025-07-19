@@ -1,2 +1,9 @@
-# Mktng-Calculator.
-Herramienta Python para calcular el ROI de inversiones empresariales. Ofrece una API para integración web, facilitando análisis rápidos y precisos. Instalación: git clone, pip install -r requirements.txt, ejecutar con python main.py. Contribuciones vía issues y PRs son bienvenidas.
+# Mktng-Calculator
+
+Herramienta Python para calcular métricas de marketing como ROI, CPC, CPA y tasa de conversión. El repositorio incluye `main.py`, un script interactivo que solicita los datos necesarios, valida que sean positivos y muestra los resultados.
+
+## Uso
+1. Clona el repositorio.
+2. Ejecuta `python main.py` y sigue las instrucciones en pantalla.
+
+Las contribuciones vía issues y PRs son bienvenidas.
